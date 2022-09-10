@@ -4,7 +4,8 @@
 
 /**
 * main - assigns a random number to int n everytime
-* it executes, and prints it
+* Description: it executes, and prints it
+* this program print positive,zero or nagative
 *  Return: Always 0 (Success)
 */
 int main(void)
