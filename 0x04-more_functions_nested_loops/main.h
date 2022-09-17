@@ -1,7 +1,8 @@
 #ifndef FILE_H
 #define FILE_H
 
-/**main - header file for protoypes
+/**
+ * main - header file for protoypes
  *void protoypes (void)
  *int protoypes (int)
  */
