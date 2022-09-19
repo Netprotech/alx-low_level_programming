@@ -2,7 +2,7 @@
 
 /**
  * _puts - prints a string to stdout
- *
+ * use _putchar followed by a new line
  * @str: pointer to the string to print
  *
  */
