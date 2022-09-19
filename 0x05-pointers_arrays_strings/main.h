@@ -1,16 +1,14 @@
-#ifndef MAIN_H                                                                                                                          
+#ifndef MAIN_H
+#define MAIN_H
 
-#define MAIN_H                                                                                                                          
-
-/** 
- * main - header file for protoypes                                                                                                     
+/**
+ * main - header file for protoypes
  *
  * void protoypes (void)
- */                                                                                                                     
-
+ */
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
 int _strlen(char *s);
 void _puts(char *str);
 
-#endif /* MAIN_H */ 
+#endif /* MAIN_H */
