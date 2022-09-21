@@ -17,7 +17,7 @@ void rev_string(char *s)
 	{
 		len++;
 	}
-	else
+	else if
 	{
 		len1 = len - 1;
 	}
